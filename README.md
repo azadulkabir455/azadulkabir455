@@ -2,19 +2,9 @@
   <img height="305" src="https://media.tenor.com/ZNp_Ej5ab-YAAAAC/coding.gif"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h1 align="center">Azad Ul Kabir</h1>
 
-###
-
-<br clear="both">
-
 <h4 align="center">Web Designer || Frontend Developer || Computer Science Engineer</h4>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/azadulkabir/" target="_blank">
@@ -27,8 +17,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="31" height="24" alt="devto logo"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
