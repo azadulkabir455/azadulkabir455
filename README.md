@@ -3,15 +3,12 @@
 </div>
 
 <h1 align="center">Azad Ul Kabir</h1>
-
+<h6 align="center">azadulkabir10@gmail.com</h6>
 <h4 align="center">Web Designer || Frontend Developer || Computer Science Engineer</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/azadulkabir/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="31" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="azadulkabir10@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="31" height="24" alt="gmail logo"  />
   </a>
   <a href="http://172.16.29.28/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="31" height="24" alt="devto logo"  />
@@ -25,8 +22,6 @@
 
 <p align="left">I am a passionate and motivated front-end developer with 4 years of industrial experience who is passionate about building rich visual interfaces and action-oriented enterprise software. Always want to be a versatile front-end developer, who is capable of working every tech from the front end. Loves to play data manipulation along with the front end. Curious to learn new things compatible with related work.</p>
 
-###
-
 <br clear="both">
 
 <h3 align="left">Experience:</h3>
@@ -35,15 +30,11 @@
 
 <p align="left">☞Responsibility:<br>➡️Implement UI design with Material UI and Ant Design.<br>➡️Implement Frontend functionality with React js<br>➡️API integration with Builder AI run engine<br>➡️Write test case with RTL, Jest, Enzyme, and Jest cucumber <br>➡️Different types of issue fixing like UI or functionality that QA provides.</p>
 
-###
-
 <br clear="both">
 
 <h6 align="left">OrangeToolz ( Dec 2020 - Jan 2023 )<br>Role: Frontend Developer</h6>
 
 <p align="left">☞Responsibility:<br>➡️ Convert pixel-perfect design from Figma<br>➡️ Create a dynamic custom component with JavaScript.<br>➡️ Develop module-based reusable components in web apps with ReactJs.<br>➡️ Cross-browser compatibility check for responsiveness and other functionality.<br>➡️ Support clients for any kind of front-end-related issue & debugging.<br>➡️ Working with Elementor page builder and QA for finding issues.<br>➡️ Working on-site optimization and speed up.</p>
-
-###
 
 <br clear="both">
 
