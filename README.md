@@ -22,9 +22,6 @@
 
 <h3 align="left">Career Objective</h3>
 
-###
-
-<br clear="both">
 
 <p align="left">I am a passionate and motivated front-end developer with 4 years of industrial experience who is passionate about building rich visual interfaces and action-oriented enterprise software. Always want to be a versatile front-end developer, who is capable of working every tech from the front end. Loves to play data manipulation along with the front end. Curious to learn new things compatible with related work.</p>
 
@@ -34,15 +31,7 @@
 
 <h3 align="left">Experience:</h3>
 
-###
-
-<br clear="both">
-
 <h6 align="left">Zaag Systems ( Mar 2023 to Present )<br>Role: React Js Developer</h6>
-
-###
-
-<br clear="both">
 
 <p align="left">☞Responsibility:<br>➡️Implement UI design with Material UI and Ant Design.<br>➡️Implement Frontend functionality with React js<br>➡️API integration with Builder AI run engine<br>➡️Write test case with RTL, Jest, Enzyme, and Jest cucumber <br>➡️Different types of issue fixing like UI or functionality that QA provides.</p>
 
@@ -52,10 +41,6 @@
 
 <h6 align="left">OrangeToolz ( Dec 2020 - Jan 2023 )<br>Role: Frontend Developer</h6>
 
-###
-
-<br clear="both">
-
 <p align="left">☞Responsibility:<br>➡️ Convert pixel-perfect design from Figma<br>➡️ Create a dynamic custom component with JavaScript.<br>➡️ Develop module-based reusable components in web apps with ReactJs.<br>➡️ Cross-browser compatibility check for responsiveness and other functionality.<br>➡️ Support clients for any kind of front-end-related issue & debugging.<br>➡️ Working with Elementor page builder and QA for finding issues.<br>➡️ Working on-site optimization and speed up.</p>
 
 ###
@@ -64,19 +49,14 @@
 
 <h6 align="left">ThemeXpert( Jun 2019 - Oct 2020 )<br>Role: Web designer</h6>
 
-###
-
-<br clear="both">
 
 <p align="left">☞Responsibility:<br>➡️ Exploring related sites for getting Inspiration for starting a website<br>➡️ Sketch website structure from client business theme & requirement<br>➡️ Convert pixel-perfect website design from the XD <br>➡️ Developing site with page builder Elementor or Divi<br>➡️ Collaborate with backend developer for design module.<br>➡️ Successfully communicate with clients for their feedback</p>
 
 ###
 
-<h3 align="left">My Expertise:</h3>
-
-###
-
 <br clear="both">
+
+<h3 align="left">My Expertise:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -94,10 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -109,10 +85,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -126,11 +98,9 @@
 
 ###
 
-<h3 align="left">Tools:</h3>
-
-###
-
 <br clear="both">
+
+<h3 align="left">Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -160,15 +130,13 @@
 
 ###
 
-<h3 align="left">GitHub Status:</h3>
-
-###
-
 <br clear="both">
 
+<h3 align="left">GitHub Status:</h3>
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=azadulkabir455&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azadulkabir455&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=azadulkabir455&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azadulkabir455&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="175" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=azadulkabir455&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="350" alt="streak graph"  />
 </div>
 
