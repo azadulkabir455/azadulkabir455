@@ -2,12 +2,10 @@
   <img height="305" src="https://media.tenor.com/ZNp_Ej5ab-YAAAAC/coding.gif"  />
 </div>
 
-<h1 align="center">
-Azad Ul Kabir
-<h6 align="center">azadulkabir10@gmail.com</h6>
-</h1>
+<h1 align="center">Azad Ul Kabir</h1>
 
 <h4 align="center">Web Designer || Frontend Developer || Computer Science Engineer</h4>
+<h6 align="center">azadulkabir10@gmail.com</h6>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/azadulkabir/" target="_blank">
