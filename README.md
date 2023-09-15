@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="305" src="https://media.tenor.com/ZNp_Ej5ab-YAAAAC/coding.gif"  />
-</div>
 
 <h1 align="center">Azad Ul Kabir</h1>
 
