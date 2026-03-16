@@ -24,19 +24,19 @@
 
 <h3 align="left">Experience:</h3>
 
-<h6 align="left">) Doctime( Sep 2025 - Present) <br>Role: Sr. Frontend Engineer</h6>
+<h6 align="left">Doctime( Sep 2025 - Present) <br>Role: Sr. Frontend Engineer</h6>
 
 <p align="left">☞Responsibility:<br>➡️ Enhanced the in-house Doctor Pro platform by improving core features (Drag-And-Drop, Multi-partner theming, User flow improvement) and implementing new features with UI design and API integration.<br>➡️ Designed and API integration niche-based client projects with scalable architecture, delivering theming, multilingual localization, layout shifting, and real-data chart integrations</p>
 
 <br clear="both">
 
-<h6 align="left">) Storex( Sep 2024 - Aug 2025) <br>Role: Sr. Frontend developer</h6>
+<h6 align="left">Storex( Sep 2024 - Aug 2025) <br>Role: Sr. Frontend developer</h6>
 
 <p align="left">☞Responsibility:<br>➡️Led frontend team activities, including task allocation and time estimation.<br>➡️ Reviewed critical code and provided hands-on technical guidance. <br>➡️ Developed reusable micro-components for scalable feature implementation.<br>➡️● Implement authentication, validation, sensitization, and role-based permissions. <br>➡️ Managed CRUD operations, API integrations, and payment gateways (Steadfast, bKash).</p>
 
 <br clear="both">
 
-<h6 align="left">) Zaag System LTD( Mar 2023 - Aug 2024 | Remote) <br>Role: React Js Developer</h6>
+<h6 align="left">Zaag System LTD( Mar 2023 - Aug 2024 | Remote) <br>Role: React Js Developer</h6>
 
 <p align="left">☞Responsibility:<br>➡️Implement UI design with Material UI and Ant Design.<br>➡️Implement Frontend functionality with React.js <br>➡️API integration with Builder AI run engine<br>➡️Write test case with RTL, Jest, Enzyme, and Jest cucumber <br>➡️Different types of issue fixing like UI or functionality that QA provides.</p>
 
