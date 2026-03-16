@@ -18,21 +18,33 @@
 <h3 align="left">Career Objective</h3>
 
 
-<p align="left">I am a passionate and motivated front-end developer with 4 years of industrial experience who is passionate about building rich visual interfaces and action-oriented enterprise software. Always want to be a versatile front-end developer, who is capable of working every tech from the front end. Loves to play data manipulation along with the front end. Curious to learn new things compatible with related work.</p>
+<p align="left">With around seven years of professional experience as a front-end developer, I specialize in creating visually striking, highly responsive, and performance-optimized web applications. I’m driven by a passion for user-centric design and modern technologies, consistently delivering pixel-perfect interfaces that enhance user experiences and achieve business goals</p>
 
 <br clear="both">
 
 <h3 align="left">Experience:</h3>
 
-<h6 align="left">Zaag Systems ( Mar 2023 to Present )<br>Role: React Js Developer</h6>
+<h6 align="left">) Doctime( Sep 2025 - Present) <br>Role: Sr. Frontend Engineer</h6>
 
-<p align="left">☞Responsibility:<br>➡️Implement UI design with Material UI and Ant Design.<br>➡️Implement Frontend functionality with React js<br>➡️API integration with Builder AI run engine<br>➡️Write test case with RTL, Jest, Enzyme, and Jest cucumber <br>➡️Different types of issue fixing like UI or functionality that QA provides.</p>
+<p align="left">☞Responsibility:<br>➡️ Enhanced the in-house Doctor Pro platform by improving core features (Drag-And-Drop, Multi-partner theming, User flow improvement) and implementing new features with UI design and API integration.<br>➡️ Designed and API integration niche-based client projects with scalable architecture, delivering theming, multilingual localization, layout shifting, and real-data chart integrations</p>
+
+<br clear="both">
+
+<h6 align="left">) Storex( Sep 2024 - Aug 2025) <br>Role: Sr. Frontend developer</h6>
+
+<p align="left">☞Responsibility:<br>➡️Led frontend team activities, including task allocation and time estimation.<br>➡️ Reviewed critical code and provided hands-on technical guidance. <br>➡️ Developed reusable micro-components for scalable feature implementation.<br>➡️● Implement authentication, validation, sensitization, and role-based permissions. <br>➡️ Managed CRUD operations, API integrations, and payment gateways (Steadfast, bKash).</p>
+
+<br clear="both">
+
+<h6 align="left">) Zaag System LTD( Mar 2023 - Aug 2024 | Remote) <br>Role: React Js Developer</h6>
+
+<p align="left">☞Responsibility:<br>➡️Implement UI design with Material UI and Ant Design.<br>➡️Implement Frontend functionality with React.js <br>➡️API integration with Builder AI run engine<br>➡️Write test case with RTL, Jest, Enzyme, and Jest cucumber <br>➡️Different types of issue fixing like UI or functionality that QA provides.</p>
 
 <br clear="both">
 
 <h6 align="left">OrangeToolz ( Dec 2020 - Jan 2023 )<br>Role: Frontend Developer</h6>
 
-<p align="left">☞Responsibility:<br>➡️ Convert pixel-perfect design from Figma<br>➡️ Create a dynamic custom component with JavaScript.<br>➡️ Develop module-based reusable components in web apps with ReactJs.<br>➡️ Cross-browser compatibility check for responsiveness and other functionality.<br>➡️ Support clients for any kind of front-end-related issue & debugging.<br>➡️ Working with Elementor page builder and QA for finding issues.<br>➡️ Working on-site optimization and speed up.</p>
+<p align="left">☞Responsibility:<br>➡️ Convert pixel-perfect design from Figma<br>➡️ Create a dynamic custom component with JavaScript.<br>➡️ Develop module-based reusable components in web apps with ReactJs.<br>➡️ Cross-browser compatibility check for responsiveness and other functionality.<br>➡️ Support clients for any kind of front-end-related issue & debugging.<br>➡️ Working with Elementor page builder and QA for finding issues.<br>➡️ Working on on-site optimization and speed up.</p>
 
 <br clear="both">
 
