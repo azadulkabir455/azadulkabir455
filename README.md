@@ -1,7 +1,7 @@
 
 <h1 align="center">Azad Ul Kabir</h1>
 
-<h4 align="center">Web Designer || Frontend Developer || Computer Science Engineer</h4>
+<h4 align="center">Sr. Frontend Developer || React Developer || Next JS Developer || Computer Science Engineer</h4>
 <h6 align="center">azadulkabir10@gmail.com</h6>
 
 <div align="center">
